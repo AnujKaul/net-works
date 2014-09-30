@@ -1,0 +1,5 @@
+send:247370
+recv:4515
+drop:23244
+Ctrl:23263
+Probability:0.0183
